@@ -1,6 +1,7 @@
 body {
 	background-color: #777777;
 	font: Arial;
+	color: #000000;
 }
 table {
 	border-collapse: collapse;
@@ -13,8 +14,8 @@ td.dark:hover {
 	background-color: #2E3136
 }
 td.light {
-	background-color: ;
+	background-color: #FFFFFF;
 }
 td.light:hover {
-	background-color: ;
+	background-color: #F3F3F3;
 }
