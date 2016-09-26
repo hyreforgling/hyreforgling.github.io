@@ -1,0 +1,20 @@
+body {
+	background-color: #777777;
+	font: Arial;
+}
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+td.dark {
+	background-color: #36393E;
+}
+td.dark:hover {
+	background-color: #2E3136
+}
+td.light {
+	background-color: ;
+}
+td.light:hover {
+	background-color: ;
+}
